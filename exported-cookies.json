@@ -1,0 +1,16 @@
+[
+  {
+    "domain": ".hcaptcha.com",
+    "expirationDate": 1639334067.039397,
+    "hostOnly": false,
+    "httpOnly": false,
+    "name": "hc_accessibility",
+    "path": "/",
+    "sameSite": "no_restriction",
+    "secure": true,
+    "session": false,
+    "storeId": "0",
+    "value": "EH4hfVZFZ59pH4bFIBVeGWyqXWYLzKtqtimVRbIhfxWzA1s5DtryFj9IsJ+DSsXOFirEE+HmI5JWd3lLBsL56UUIehJfhsPfpVx0bW1sfIFG+22PxnGjYyzZ6rtFGdrY7hVT6jZ+CJzsfZZYUMcEPvsv4ldPW/GsYzVLLImxLjdp4fIpr6GBrH0hhF+HPLAl83zL9JDEOjig4XvP35HYrjz0fD/ecG5MMgo9+xQWon9PlrM1hYyTR+rFzLjfYkAJxcEUf4ASm9SlJ26g4z4VUnhhSFyjiOj1RC9mKlqDscM+luKRY1lz4CQAMY1u5roY9noVQbxa2J5DBCgyey/xCgRUoXNn9UwRA+JjhzCy9jp2k0HzKYZjubfrDm0IzyckXI3EKldnjJ5iR/tnJiJd3qFd1alqIAra4/7Jg9ni9zJz9VE6g01sc1B42aw0HJ6R+CKLIj0+xJgfOVfvE4EiYqx15Or8ClTLSLZQJnCpueN9uL15EODQiEKau8IEWoABqJiSRpLcpWEDzTWy79a4Rr6p5ZZeUwBk6Hq37Q/VT2EmcexZ0Ztr2RLzOSEcsjsdXYGozUeHz3bpFEHLcS/VDJt3b9iNRfqNFSp1dVKrLMrH4ZJSHYG2rUDCwGGnJaGg2cg2FHN29SGo0hSsIx4uYJYzqerZt5BIi3Qj2bA+Rwoj7bw9hatjbTQjXHyrTPQuQjJW1wM5V8L8JONlAeHgvABleq0OmaF1WNsX5uBIBwV470BHO18rlxL90AUfGYgceQOtAuZ2dXcFyb+mf5okE0FttwYEMkSetY4mKB1DjK1Uj1ysxbg42zOpY3771kSUM8umBHpTCNOk2ZzYkmqQYw39thJ5rx50q3k8j42rI61uYjHVsJZ3Esqa6N/Wa3GcOzt4ojdUj5Rff8ta88r0tHecr8GMEB8SOcdpsIdZGlXYELG56CN90WJgpgcDaOx8pdshg/gdUSk1LrwZtlCQPa/ij5XBOk2xuAZMfTLVfMw7Xbr9yMwiMnS7Tq5h6a/O3n55D2krQnpImBf065eEVyKTvMeIILK/AgmOXAmx+AFi07DBf6eWSu82/lrX194yhAZGoWGB/ufvyj/b",
+    "origin": "https://newassets.hcaptcha.com"
+  }
+]
